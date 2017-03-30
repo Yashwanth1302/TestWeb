@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+    <button id="test" name="Test" value="Test"></button>
     </div>
     </form>
 </body>
